@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Vinayakteli22
-- 👀 I’m interested in  Android develoment & Cyber Security
-- 🌱 I’m currently learning Android Develoment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Android Develoment Projects and Jetpack Compose
+- 👀 I’m interested in  Android development & Cyber Security
+- 🌱 I’m currently learning Android Development
+- 💞️ I’m looking to collaborate on Android Development
+- 📫 How to reach me vinayakteli040@gmail.com
 
-<!---
-Vinayakteli22/Vinayakteli22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
